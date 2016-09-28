@@ -2,7 +2,7 @@
 clc
 clear all
 %[Noyono,fs]=audioread('vlc-record-2016-09-17-23h00m28s-Noyono_demo.mp3-.mp3');
-data=load('O001.txt');                              % loading 1-channel data
+data=load('S001.txt');                              % loading 1-channel data
 
 Sampling_time_period=2;                             % sampling time period
 
